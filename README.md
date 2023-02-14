@@ -3,19 +3,18 @@
 This is a To-Do app build using django framework of python. Here user can create his todo list by adding items, crossed off the completed items, delete the completed items and can delete all the items.
 
 Technologies Used :
-
 1. Python
 2. Django
 3. Bootstrap
 4. JavaScript
-Additional Python Modules Required:
 
+Additional Python Modules Required:
 1.Django
 
 Setup
 To get this repository, run the following command inside your git enabled terminal
 
-$ git clone https://github.com/shreys7/django-todo.git
+$ git clone https://github.com/rahul-raphy/Todo-List
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
