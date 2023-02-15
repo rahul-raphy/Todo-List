@@ -33,4 +33,9 @@ That was pretty simple, right? Now let's make the App live. We just need to star
 $ python manage.py runserver
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
+<h4> Output </h4>
+
+![output_todo_list](https://user-images.githubusercontent.com/67228966/219004152-7a4252a6-ac7d-418b-9a6f-79a9d78f2909.png)
+
+<br>
 Cheers and Happy Coding :)
